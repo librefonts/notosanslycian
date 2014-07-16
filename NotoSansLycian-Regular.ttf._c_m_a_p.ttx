@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="88" language="0" nGroups="6">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10280" name="glyph00004"/><!-- LYCIAN LETTER A -->
+      <map code="0x10281" name="glyph00005"/><!-- LYCIAN LETTER E -->
+      <map code="0x10282" name="glyph00006"/><!-- LYCIAN LETTER B -->
+      <map code="0x10283" name="glyph00007"/><!-- LYCIAN LETTER BH -->
+      <map code="0x10284" name="glyph00008"/><!-- LYCIAN LETTER G -->
+      <map code="0x10285" name="glyph00009"/><!-- LYCIAN LETTER D -->
+      <map code="0x10286" name="glyph00010"/><!-- LYCIAN LETTER I -->
+      <map code="0x10287" name="glyph00011"/><!-- LYCIAN LETTER W -->
+      <map code="0x10288" name="glyph00012"/><!-- LYCIAN LETTER Z -->
+      <map code="0x10289" name="glyph00013"/><!-- LYCIAN LETTER TH -->
+      <map code="0x1028a" name="glyph00014"/><!-- LYCIAN LETTER J -->
+      <map code="0x1028b" name="glyph00015"/><!-- LYCIAN LETTER K -->
+      <map code="0x1028c" name="glyph00016"/><!-- LYCIAN LETTER Q -->
+      <map code="0x1028d" name="glyph00017"/><!-- LYCIAN LETTER L -->
+      <map code="0x1028e" name="glyph00018"/><!-- LYCIAN LETTER M -->
+      <map code="0x1028f" name="glyph00019"/><!-- LYCIAN LETTER N -->
+      <map code="0x10290" name="glyph00020"/><!-- LYCIAN LETTER MM -->
+      <map code="0x10291" name="glyph00021"/><!-- LYCIAN LETTER NN -->
+      <map code="0x10292" name="glyph00022"/><!-- LYCIAN LETTER U -->
+      <map code="0x10293" name="glyph00023"/><!-- LYCIAN LETTER P -->
+      <map code="0x10294" name="glyph00024"/><!-- LYCIAN LETTER KK -->
+      <map code="0x10295" name="glyph00025"/><!-- LYCIAN LETTER R -->
+      <map code="0x10296" name="glyph00026"/><!-- LYCIAN LETTER S -->
+      <map code="0x10297" name="glyph00027"/><!-- LYCIAN LETTER T -->
+      <map code="0x10298" name="glyph00028"/><!-- LYCIAN LETTER TT -->
+      <map code="0x10299" name="glyph00029"/><!-- LYCIAN LETTER AN -->
+      <map code="0x1029a" name="glyph00030"/><!-- LYCIAN LETTER EN -->
+      <map code="0x1029b" name="glyph00031"/><!-- LYCIAN LETTER H -->
+      <map code="0x1029c" name="glyph00032"/><!-- LYCIAN LETTER X -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>
