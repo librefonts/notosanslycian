@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Lycian",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 4459,
+  "fonts": [
+    {
+      "name": "Noto Sans Lycian",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansLycian-Regular.ttf",
+      "postScriptName": "NotoSansLycian",
+      "fullName": "Noto Sans Lycian",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
